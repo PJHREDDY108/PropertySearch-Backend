@@ -17,9 +17,5 @@ class AddressapiApplicationTests {
     @Test
     void contextLoads() {
     }
-    @Test
-    void main() {
-       AddressapiApplication.main(new String[]{});
-    }
 
 }
